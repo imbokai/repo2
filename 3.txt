@@ -1,0 +1,2 @@
+先生成一对密匙对
+ssh-keygen -t rsa
